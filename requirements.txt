@@ -1,4 +1,4 @@
-httpx[http2,brotli]~=0.21.1
+httpx[http2,brotli]
 lxml~=4.6.3;platform_system=="Windows"
 html5-parser~=0.4.10;platform_system=="Linux"
 cssselect~=1.1.0
